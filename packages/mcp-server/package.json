@@ -5,7 +5,7 @@
     "type": "module",
     "description": "MCP server exposing Tsinghua affairs as tools for any MCP client",
     "dependencies": {
-        "@modelcontextprotocol/sdk": "^1.18.0",
+        "@modelcontextprotocol/sdk": "^1.31.0",
         "@thu-agent/core": "workspace:*",
         "zod": "^4.6.5",
         "dayjs": "^1.11.23",
